@@ -4,7 +4,7 @@
 
 > Trilha Explorer 
 
-Projeto construído do evento Next Level Week da Rockeseat.
+Projeto construído no evento Next Level Week da Rockeseat.
 
 [Clique aqui para acessar](https://vitoriacurty.github.io/NLW-9/)
 
